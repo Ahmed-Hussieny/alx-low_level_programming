@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Print numbers folowed by , 
+ * main - Print numbers folowed by ,
  *
  * Return: 0 (success)
  */
